@@ -1,11 +1,15 @@
-build:
+Environment：ubuntu20.04,librealsenseSDK,opencv,C++
+
+Build:
 
 ```
+touch build
+
 cd build
 
 cmake ..
 
-make
+Make
 ```
 
 
