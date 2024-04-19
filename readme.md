@@ -3,7 +3,7 @@ Environment：ubuntu20.04,librealsenseSDK,opencv,C++
 Build:
 
 ```
-touch build
+mkdir build
 
 cd build
 
